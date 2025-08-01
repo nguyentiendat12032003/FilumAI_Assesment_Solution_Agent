@@ -53,7 +53,7 @@ def save_log():
         with open(log_file, "w", encoding="utf-8") as f:
             json.dump([log_entry], f, ensure_ascii=False, indent=2)
 
-    print("✅ Log đã được lưu vào log/matching_log.json")
+    print("Log đã được lưu vào log/matching_log.json")
 
 if __name__ == "__main__":
     save_log()
