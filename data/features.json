@@ -1,0 +1,158 @@
+[
+  {
+    "feature_name": "Surveys",
+    "category": "Voice of Customer (VoC)",
+    "description": "Design and deploy feedback surveys across multiple channels such as Web, Mobile App, Zalo, SMS, Email, QR code, and POS systems.",
+    "keywords": [
+      "survey",
+      "feedback",
+      "CSAT",
+      "NPS",
+      "questionnaire",
+      "form"
+    ],
+    "use_cases": [
+      "Collect post-purchase feedback automatically",
+      "Gather customer satisfaction ratings after support calls",
+      "Launch targeted satisfaction surveys on mobile or POS"
+    ],
+    "how_it_helps_examples": [
+      "Increases response rates by automating survey delivery across preferred customer channels",
+      "Improves customer insight collection at key journey moments"
+    ],
+    "docs_link": "https://docs.filum.ai/surveys"
+  },
+  {
+    "feature_name": "Journeys",
+    "category": "Voice of Customer (VoC)",
+    "description": "Visualize and manage customer journeys across touchpoints, identifying key friction or drop-off points.",
+    "keywords": [
+      "customer journey",
+      "touchpoint",
+      "funnel",
+      "conversion",
+      "experience mapping"
+    ],
+    "use_cases": [
+      "Identify which steps in the onboarding flow cause customer frustration",
+      "Map customer paths before and after submitting a support ticket"
+    ],
+    "how_it_helps_examples": [
+      "Highlights friction points in customer journeys through aggregated behavior and feedback",
+      "Improves user flow by showing drop-off or delay steps"
+    ],
+    "docs_link": "https://docs.filum.ai/journeys"
+  },
+  {
+    "feature_name": "Conversations",
+    "category": "Voice of Customer (VoC)",
+    "description": "Analyze customer interactions across chat, call transcripts, and email using AI-based topic and sentiment extraction.",
+    "keywords": [
+      "conversation analysis",
+      "chat",
+      "calls",
+      "emails",
+      "voice of customer",
+      "sentiment"
+    ],
+    "use_cases": [
+      "Identify recurring complaints in support chats",
+      "Analyze email tone changes before churn",
+      "Detect negative feedback in call transcripts"
+    ],
+    "how_it_helps_examples": [
+      "Automatically detects trends and themes from unstructured customer messages",
+      "Reduces manual review time of large volumes of conversations"
+    ],
+    "docs_link": "https://docs.filum.ai/conversations"
+  },
+  {
+    "feature_name": "AI Inbox",
+    "category": "AI Customer Service",
+    "description": "A collaborative inbox where human and AI agents co-manage customer conversations, automating first-level replies.",
+    "keywords": [
+      "AI agent",
+      "inbox",
+      "automated response",
+      "FAQ",
+      "support ticket",
+      "chatbot"
+    ],
+    "use_cases": [
+      "Deflect repetitive support questions with AI",
+      "Suggest reply drafts to human agents in real-time",
+      "Auto-tag and prioritize incoming messages"
+    ],
+    "how_it_helps_examples": [
+      "Reduces agent workload by 30\u201350% through AI-driven answers",
+      "Improves response speed for common issues"
+    ],
+    "docs_link": "https://docs.filum.ai/ai-inbox"
+  },
+  {
+    "feature_name": "Tickets",
+    "category": "AI Customer Service",
+    "description": "Centralized ticket management system with customizable workflows, SLAs, and AI-based prioritization.",
+    "keywords": [
+      "support",
+      "ticket system",
+      "case management",
+      "workflow",
+      "SLA"
+    ],
+    "use_cases": [
+      "Track customer-reported issues from multiple channels",
+      "Assign and escalate tickets based on urgency or topic",
+      "Analyze ticket resolution time by agent or team"
+    ],
+    "how_it_helps_examples": [
+      "Ensures no customer issues are missed or delayed",
+      "Optimizes operations by prioritizing high-impact tickets"
+    ],
+    "docs_link": "https://docs.filum.ai/tickets"
+  },
+  {
+    "feature_name": "Experience Insights",
+    "category": "Insights",
+    "description": "Analyze customer feedback and behavior across touchpoints to identify experience trends, topics, and friction zones.",
+    "keywords": [
+      "experience analysis",
+      "touchpoint",
+      "feedback trend",
+      "topic extraction",
+      "NLP"
+    ],
+    "use_cases": [
+      "Identify most common negative themes in survey responses",
+      "Detect rising complaints linked to a new product update",
+      "Correlate customer sentiment with support wait times"
+    ],
+    "how_it_helps_examples": [
+      "Provides a big-picture view of customer experience drivers",
+      "Drills down into actionable feedback across journeys"
+    ],
+    "docs_link": "https://docs.filum.ai/insights-experience"
+  },
+  {
+    "feature_name": "Customers (360 View)",
+    "category": "Customer 360",
+    "description": "Build complete profiles of individual customers, including demographics, interaction history, and segmentation.",
+    "keywords": [
+      "CRM",
+      "360 view",
+      "interaction history",
+      "customer data",
+      "segmentation"
+    ],
+    "use_cases": [
+      "View all messages, surveys, and purchases tied to a single customer",
+      "Segment users by loyalty, behavior, or recent sentiment",
+      "Export customer lists for personalized engagement"
+    ],
+    "how_it_helps_examples": [
+      "Gives agents a full picture of every customer before responding",
+      "Supports targeted campaigns with detailed segmentation"
+    ],
+    "docs_link": "https://docs.filum.ai/customer-360"
+  }
+]

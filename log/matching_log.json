@@ -1,0 +1,166 @@
+[
+  {
+    "timestamp": "2025-08-01T09:10:57.887803",
+    "pain_point": "Our support agents are overwhelmed by the high volume of repetitive questions.",
+    "matches": [
+      {
+        "feature_name": "Surveys",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0247
+      },
+      {
+        "feature_name": "Journeys",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0745
+      },
+      {
+        "feature_name": "Conversations",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0888
+      },
+      {
+        "feature_name": "AI Inbox",
+        "category": "AI Customer Service",
+        "score": 0.2034
+      },
+      {
+        "feature_name": "Tickets",
+        "category": "AI Customer Service",
+        "score": 0.141
+      },
+      {
+        "feature_name": "Experience Insights",
+        "category": "Insights",
+        "score": 0.0389
+      },
+      {
+        "feature_name": "Customers (360 View)",
+        "category": "Customer 360",
+        "score": 0.098
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-01T09:25:29.078410",
+    "pain_point": "bạn tên gì",
+    "matches": [
+      {
+        "feature_name": "Surveys",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Journeys",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Conversations",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0
+      },
+      {
+        "feature_name": "AI Inbox",
+        "category": "AI Customer Service",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Tickets",
+        "category": "AI Customer Service",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Experience Insights",
+        "category": "Insights",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Customers (360 View)",
+        "category": "Customer 360",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-01T09:25:52.889316",
+    "pain_point": "Our support agents are overwhelmed by the high volume of repetitive questions.",
+    "matches": [
+      {
+        "feature_name": "Surveys",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0247
+      },
+      {
+        "feature_name": "Journeys",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0745
+      },
+      {
+        "feature_name": "Conversations",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0888
+      },
+      {
+        "feature_name": "AI Inbox",
+        "category": "AI Customer Service",
+        "score": 0.2034
+      },
+      {
+        "feature_name": "Tickets",
+        "category": "AI Customer Service",
+        "score": 0.141
+      },
+      {
+        "feature_name": "Experience Insights",
+        "category": "Insights",
+        "score": 0.0389
+      },
+      {
+        "feature_name": "Customers (360 View)",
+        "category": "Customer 360",
+        "score": 0.098
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-08-01T09:26:32.672975",
+    "pain_point": "toi can giup do hien tai chat cua toi dang bi qua tai",
+    "matches": [
+      {
+        "feature_name": "Surveys",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Journeys",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Conversations",
+        "category": "Voice of Customer (VoC)",
+        "score": 0.265
+      },
+      {
+        "feature_name": "AI Inbox",
+        "category": "AI Customer Service",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Tickets",
+        "category": "AI Customer Service",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Experience Insights",
+        "category": "Insights",
+        "score": 0.0
+      },
+      {
+        "feature_name": "Customers (360 View)",
+        "category": "Customer 360",
+        "score": 0.0
+      }
+    ]
+  }
+]
